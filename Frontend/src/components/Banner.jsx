@@ -32,7 +32,7 @@ function Banner() {
             <input type="text" className="grow" placeholder="Email" />
             </label>
             </div>
-            <button className="btn mt-6 btn-secondary">Secondary</button>
+            <button className="btn mt-6 btn-secondary">Get Started</button>
         </div>
         <div className='order-1 w-full md:w-1/2 px-35 py-20 '>
         <img src={bann} className='w-95 h-95' alt="" />
